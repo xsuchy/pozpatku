@@ -1,0 +1,16 @@
+title: Pozpátku
+header-img: img/home-bg.jpg
+email: miroslav@suchy.cz
+description: > # this means to ignore newlines until "baseurl:"
+  Stránky divadelního souboru Pozpátku z Říčan u Brna
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://pozpatku.ricanyubrna.cz/" # the base hostname & protocol for your site
+github_username: xsuchy
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+plugins: [jekyll-paginate, jekyll-feed]
