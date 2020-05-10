@@ -6,9 +6,6 @@ author: Miroslav Suchý
 visible: 1
 categories: hry
 ---
-
-# Lékařské tajemství
-
 Autorem hry je člen divadla Petr Pospíšilík, který se též ujal režie a hlavní role. Vtipná dvouhodinová crazy komedie pojednává o zubaři a jeho životních eskapádách. Jeho život se zkomplikuje, když někteří lidé poslouchají u klíčových dírek a slyší jenom část rozhovoru.
 
 Žánr: komedie
