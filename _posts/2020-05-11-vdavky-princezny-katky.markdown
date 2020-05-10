@@ -24,12 +24,6 @@ Délka představení: 80 minut
  * Luciferka Zlofíra - Tereza Gazárková
  * Vypravěč - Petr Pospíšilík
 
-Záznam premiéry ze dne 30. prosince 2019 v Říčanech:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eXaPB4qdpDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kJ7Xz40o8lo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [Scénář](https://docs.google.com/document/d/1jB8l8rsLkj-vQOZDkjIq3UZDkb8UtUdh6XkMPV4LHwI/edit?usp=sharing)
 
 [Fotky](https://photos.app.goo.gl/XUrGsFCEqecyHBvo7) z premiéry.
