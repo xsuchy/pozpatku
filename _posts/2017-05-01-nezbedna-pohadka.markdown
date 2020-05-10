@@ -8,9 +8,7 @@ categories: hry
 ---
 Reportáž o Nezbedné pohádce.
 
-<iframe src="https://player.vimeo.com/video/215582895?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/215582895">Nezbedn&aacute; poh&aacute;dka</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pgZEdmlCptU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Celý záznam:
-<iframe src="https://player.vimeo.com/video/215813211?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/215813211">Nezbedn&aacute; poh&aacute;dka</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oGCIynpEXdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
