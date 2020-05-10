@@ -15,7 +15,8 @@ Autorem hry je člen divadla Petr Pospíšilík, který se též ujal režie a h
 
 Délka představení: 120 minut s přestávkou
 
- * scénář a režie: Petr Pospíšilík
+ * scénář: Petr Pospíšilík
+ * režie: Petr Pospíšilík a Tereza Gazárková
 
  * Renata Kašíková (psycholožka) - Hana Kubišová
  * Martin Kůs (zubař) - Petr Pospíšilík
