@@ -49,4 +49,9 @@ Reprízy:
  * 21. května 2017 - Lukovany
  * 23. září 2017 - Kostelec u Holešova
  * ??? - Brno - Café Práh
+
+Reportáž:
+
+<iframe src="https://player.vimeo.com/video/189655624?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/189655624">Divadlo_Pozpatku 2016</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  
