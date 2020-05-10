@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Lékařské tajemství"
+date:   2020-05-10 06:00:00 +0100
+author: Miroslav Suchý
+visible: 1
+categories: hry
+---
+
+# Lékařské tajemství
+
+Autorem hry je člen divadla Petr Pospíšilík, který se též ujal režie a hlavní role. Vtipná dvouhodinová crazy komedie pojednává o zubaři a jeho životních eskapádách. Jeho život se zkomplikuje, když někteří lidé poslouchají u klíčových dírek a slyší jenom část rozhovoru.
+
+Žánr: komedie
+
+Délka představení: 120 minut s přestávkou
+
+ * scénář a režie: Petr Pospíšilík
+
+ * Renata Kašíková (psycholožka) - Hana Kubišová
+ * Martin Kůs (zubař) - Petr Pospíšilík
+ * Karin Matásková (sestřičky) - Tereza Gazárková
+ * Ilona Kůsová (exmanželka) - Kateřina Kobáňová, Kristina Hrichová
+ * Marek Švarc (kamarád zubaře) - Miroslav Suchý
+ * Edvard Syrový (domácí) - Jiří Pilát
+ * Kamila Švehlíková (pacientka) - Vendula Jarošová
+
+Premiéra: 15. 4. 2018.
+
+S touto hrou jsme se zúčastnili přehlídky [Třešťské Divadelní Jaro](https://www.trest.cz/tdj-lekarske-tajemstvi/a-3405)
+
+Záznam premiéry:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p6l97cTbg_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
