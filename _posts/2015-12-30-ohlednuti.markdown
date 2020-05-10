@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ohlédnutí za rokem 2015"
-date:   2017-01-22 18:48:44 +0100
+date:   2015-12-30 18:48:44 +0100
 author: Kateřina Kobáňová a Jaroslav Ďásek
 visible: 1
 categories: ohlednuti
