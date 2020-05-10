@@ -31,6 +31,8 @@ Záznam premiéry ze dne 30. prosince 2019 v Říčanech:
 
 [Scénář](https://docs.google.com/document/d/1jB8l8rsLkj-vQOZDkjIq3UZDkb8UtUdh6XkMPV4LHwI/edit?usp=sharing)
 
+[Fotky](https://photos.app.goo.gl/XUrGsFCEqecyHBvo7) z premiéry.
+
 Reprízy:
 
  * 12. ledna 2020 - Říčany
