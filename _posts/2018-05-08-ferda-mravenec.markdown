@@ -10,3 +10,13 @@ Dětský svět je pestrý, kouzelný, pohádkový. Stejně jako svět divadla. A
 
  * Premiéra: 8. 5. 2018 pro veřejnost
  * Repríza 10. 5. 2018 pro MŠ a ZŠ
+
+Reportáž:
+
+<iframe src="https://player.vimeo.com/video/271972705?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/271972705">Divadlo &quot;Př&iacute;hody Ferdy Mravence a brouka Pytl&iacute;ka&quot;</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+Záznam celého představení:
+
+<iframe src="https://player.vimeo.com/video/269798484?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/269798484">Ferda Mravenec a brouk Pytl&iacute;k</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
