@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Stránky divadelního souboru Pozpátku z Říčan u Brna
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pozpatku.ricanyubrna.cz/" # the base hostname & protocol for your site
-github_username: xsuchy
+github_username: xsuchy/pozpatku
 
 markdown: kramdown
 highlighter: rouge
