@@ -11,3 +11,6 @@ V příštím roce se předvedeme další zajímavou hrou. Ptáte se jakou?  No 
 
  * Premiéra 20. 6. 2018 pro ZŠ
  * Repríza 23. 6. pro veřejnost
+
+<iframe src="https://player.vimeo.com/video/278101101?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/278101101">V&aacute;lka knofl&iacute;ků a ma&scaron;l&iacute;</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
