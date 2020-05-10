@@ -26,13 +26,13 @@ Hra je rozverným příběhem, ve kterém se hlavní postava, neuvěřitelný lh
 Upoutávka:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rqECwJIpE2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. dějství premiéry:
+První dějství premiéry:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yX26E8UDCT0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2. dějství premiéry:
+Druhé dějství premiéry:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmayQZeEtfc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3. dějství premiéry:
+Třetí dějství premiéry:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qarTIz1lvSc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Letáček:
