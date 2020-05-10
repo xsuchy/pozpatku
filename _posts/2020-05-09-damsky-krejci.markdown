@@ -42,3 +42,11 @@ Letáček:
 Repríza Kostelec:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2_xFPV0nJfU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Reprízy:
+
+ * 5. února 2017 - Ořechov u Brna
+ * 18. března 2017 - Vsetín (divadelní festival) - Dorota Ryšánkova získala čestné uznání za ztvárnění role Rózy.
+ * 21. května 2017 - Lukovany
+ * 23. září 2017 - Kostelec u Holešova
+ * ??? - Brno - Café Práh
+ 
