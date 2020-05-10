@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Ohlédnutí za rokem 2017"
+date:   2017-12-30 10:00:00 +0100
+author: Petr Pospíšilík
+visible: 1
+categories: ohlednuti
+---
+ V uplynulém roce má dospělá část divadla za sebou úspěšné výjezdy s představením [Dámský krejčí](/hry/2020/05/09/damsky-krejci/) od francouzského autora Georgese Feydeaua. Po třetí repríze doma v Říčanech se herci s touto komedií objevili 5. 2. v Ořechově u Brna, 18. 3. ve Vsetíně na divadelním festivalu, 21. 5. v Lukovanech a 23. 9. v Kostelci u Holešova. Troufám si říct, že všechny tyto výjezdy zvládl náš soubor se ctí a dokonce i s několika alternacemi některých rolí. Důležitá věc se také udála na místě režiséra, které dlouhou dobu zelo prázdnotou. Tohoto důležitého postu se zhostil Aleš Drápal. Vzhledem k tomu, že před tím se hra už několikrát hrála, neměl vůbec jednoduchou pozici. Ale situaci zvládl velmi dobře, což se odrazilo na posledních hraných představeních. Rád bych se ještě vrátil k účasti našich herců na divadelním festivalu ve Vsetíně. Jedná se o každoroční festival Ochotnických spolků a divadel, který se koná ve všech regionech České republiky. Na všechna představení na festivalu dohlíží odborná porota profesionálů ve složení, divadelní režisér, kritik a lidé na slovo znalí. Konfrontace s profesionální porotou byla pro nás zajímavou zkušeností a snad i inspirací do budoucna. Dorotě Ryšánkové udělila porota čestné uznání za ztvárnění role Rózy. V neposlední řadě jsme měli možnost shlédnout několik představení od jiných amatérských divadel, což nám také nabídlo možnost zajímavého srovnání.
+
+Říčanští divadelníci se v současné době věnují přípravám na 30. prosince. Na programu budou v kulturním domě známé i neznámé silvestrovského scénky, včetně několika improvizovaných vystoupení. Nebude chybět ani živá hudba a občerstvení pro diváky. Současně se také připravuje nová hra s názvem Lékařské tajemství. Jejím autorem je člen našeho souboru a jedná se jak jinak o komedii.Premiéra je plánovaná na jaro příštího roku. Věříme, že se přijdete podívat a hlavně dobře pobavit. My, říčanský ochotnický spolek Pozpátku vám můžeme slíbit, že uděláme všechno proto, aby tomu tak opravdu bylo. Děkujeme vám za přízeň a těšíme se na Vás v hledišti.
