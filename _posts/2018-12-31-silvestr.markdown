@@ -8,13 +8,10 @@ categories: silvestr
 ---
 Záznam Silvestrovského představení v roce 2018.
 
-<iframe src="https://player.vimeo.com/video/311075383?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/311075383">Silvestrovsk&eacute; představen&iacute; 2018_č&aacute;st 1</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oYGT23bKAxE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/312259356?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/312259356">Silvestrovsk&eacute; představen&iacute; 2018_č&aacute;st 2</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/00t7reaxe6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Reportáž:
 
-<iframe src="https://player.vimeo.com/video/309021974?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309021974">Silvestrovsk&eacute; překvapen&iacute;</a> from <a href="https://vimeo.com/regionkamera">REGIONKAMERA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMfrCWrVmW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
