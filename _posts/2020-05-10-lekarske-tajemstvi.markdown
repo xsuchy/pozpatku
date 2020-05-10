@@ -29,3 +29,13 @@ S touto hrou jsme se zúčastnili přehlídky [Třešťské Divadelní Jaro](htt
 
 Záznam premiéry:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p6l97cTbg_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Reprízy:
+
+ * 10. listopadu 2018 - Ořechov
+ * 24. listopadu 2018 - Lukovany
+ * 9. února 2019 - Brno - Slatina
+ * 22. března 2019 - Třešť (festival)
+ * 27. dubna 2019 - Kostelec u Holešova
+
+
