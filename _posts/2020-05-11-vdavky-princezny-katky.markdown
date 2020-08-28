@@ -6,7 +6,7 @@ author: Miroslav Suchý
 visible: 1
 categories: hry
 ---
-Další hra z pera Petra Pospíšilíka. Tentokrát se jedná o pohádku pro dospělé. Vypráví příběh o princezně, která prošvihla ten praví čas na vdávání a král v jejím zralém věku zkouší poslední možnost jak ji provdat.
+Další hra z pera Petra Pospíšilíka. Tentokrát se jedná o pohádku pro dospělé. Vypráví příběh o princezně, která prošvihla ten pravý čas na vdávání a král v jejím zralém věku zkouší poslední možnost jak ji provdat.
 
 Žánr: komedie
 
@@ -19,8 +19,8 @@ Délka představení: 80 minut
  * Královna Liběna Chtivá z Bordelína - Hana Kubišová
  * Princezna Kateřina Polotučná ze Špíčku - Kateřina Kobáňová
  * Šašek Richard Drobný - Miroslav Suchý
- * Princ 1 Metoděj z Teplic - Petr Pospíšilík
- * Princ 2 Milouš Hebký z Chundelína - Petr Pospíšilík
+ * 1. princ, Metoděj z Teplic - Petr Pospíšilík
+ * 2. princ, Milouš Hebký z Chundelína - Petr Pospíšilík
  * Luciferka Zlofíra - Tereza Gazárková
  * Vypravěč - Petr Pospíšilík
 
@@ -36,3 +36,6 @@ Reprízy:
 
  * 12. ledna 2020 - Říčany
  * 2. února - Brno - Slatina
+ * 6. září 2020 - Ořechov
+ * 7. září 2020 - Café Práh, Brno
+
