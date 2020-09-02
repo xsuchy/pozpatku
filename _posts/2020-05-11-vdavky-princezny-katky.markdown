@@ -19,8 +19,8 @@ Délka představení: 80 minut
  * Královna Liběna Chtivá z Bordelína - Hana Kubišová
  * Princezna Kateřina Polotučná ze Špíčku - Kateřina Kobáňová
  * Šašek Richard Drobný - Miroslav Suchý
- * 1. princ, Metoděj z Teplic - Petr Pospíšilík
- * 2. princ, Milouš Hebký z Chundelína - Petr Pospíšilík
+ * první princ, Metoděj z Teplic - Petr Pospíšilík
+ * druhý princ, Milouš Hebký z Chundelína - Petr Pospíšilík
  * Luciferka Zlofíra - Tereza Gazárková
  * Vypravěč - Petr Pospíšilík
 
