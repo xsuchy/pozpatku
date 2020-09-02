@@ -34,8 +34,8 @@ Reportáž v Regionkameře:
 
 Reprízy:
 
- * 12. ledna 2020 - Říčany
- * 2. února - Brno - Slatina
- * 6. září 2020 - Ořechov
- * 7. září 2020 - Café Práh, Brno
+ * Říčany - 12. ledna 2020
+ * Brno - Slatina - 2. února
+ * Ořechov - 6. září 2020
+ * Café Práh, Brno - 7. září 2020
 
