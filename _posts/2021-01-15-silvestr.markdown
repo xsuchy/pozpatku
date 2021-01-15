@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Silvestr 2020"
+date:   2021-01-15 10:00:00 +0100
+author: Miroslav Suchý
+visible: 1
+categories: youtube
+---
+Protože divadla jsou zavřená a nesmí se hrát, tak jsme nemohli odehrát tradiční silvestrovský termín. Místo toho jsme si pro vás nachystali [pár skečů a nahráli je na YouTube](https://www.youtube.com/playlist?list=PL8bAIftChIDUtvFVv7wXbdbkgBFqBGNcv).
+
+= Úvod
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2F1uPAsdY7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+= Vánoční překvapení
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCG5JusOSgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+= Corona
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z8IggavtQx4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+= Návrat prvňáčků do školy po pandemii
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IAZZ-BF7qBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+= Na Marečkyndě
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jZrhL6GlCqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+= Bonus: Pokažené záběry ze Silvestra 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-Rru9GiCmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+= Bonus: Mám to rád - pouze kapela
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JOOw1ZKh1Xk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
