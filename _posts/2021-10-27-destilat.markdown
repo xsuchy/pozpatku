@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Destilát"
+date:   2021-01-15 10:00:00 +0100
+author: Miroslav Suchý
+visible: 1
+categories: youtube
+---
+Někteří členové našeho divadla účinkovali v klipech agro punkové skupiny Destilát.
+
+
+Na Marečkyndě
+=============
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jZrhL6GlCqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Flákanec
+========
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hUcDgcwIZck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
