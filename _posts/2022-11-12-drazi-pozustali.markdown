@@ -6,7 +6,7 @@ author: Miroslav Suchý
 visible: 1
 categories: 
 ---
-Navzdory svému jménu se jedná o komedii. Nepříliš harmonická rodina se scháí krátce po pohřbu na čtení poslední vůle. A začnou se odhalovat charaktery a vyplouvat na povrch skrytá tajemství.
+Navzdory svému jménu se jedná o komedii. Nepříliš harmonická rodina se schází krátce po pohřbu na čtení poslední vůle. A začnou se odhalovat charaktery a vyplouvat na povrch skrytá tajemství.
 
 Žánr: komedie
 
