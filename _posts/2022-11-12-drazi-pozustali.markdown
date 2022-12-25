@@ -26,8 +26,8 @@ Délka představení: 75 minut
 
 Reprízy:
 
- * Říčany - 30. prosince 2022
- * Brno, Vaňkovka, Café Práh - 9. ledna 2023
- * Brno, Slatina - 28. ledna 2023
+ * [Říčany - 30. prosince 2022](https://www.facebook.com/events/657491022484535/)
+ * [Brno, Vaňkovka, Café Práh - 9. ledna 2023](https://www.facebook.com/events/3216517691973108/)
+ * [Brno, Slatina - 3. února 2023](https://www.facebook.com/events/1160486331547405/)
 
 <img src="/img/drazi-pozustali.jpg" />
