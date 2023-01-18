@@ -29,5 +29,9 @@ Reprízy:
  * [Říčany - 30. prosince 2022](https://www.facebook.com/events/657491022484535/)
  * [Brno, Vaňkovka, Café Práh - 9. ledna 2023](https://www.facebook.com/events/3216517691973108/)
  * [Brno, Slatina - 3. února 2023](https://www.facebook.com/events/1160486331547405/)
+ * [Měřín - 14 února 2023](https://fb.me/e/3WxAvwrqL)
+ * [Nechvalín - 11 března 2023](https://fb.me/e/40cf7dE8C)
+ * Líšeň - 3. května
+ * derniéra v Říčanech - asi květen
 
 <img src="/img/drazi-pozustali.jpg" />
