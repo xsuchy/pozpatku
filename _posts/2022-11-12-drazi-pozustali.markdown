@@ -33,6 +33,6 @@ Reprízy:
  * [Nechvalín - 11 března 2023](https://fb.me/e/40cf7dE8C)
  * [slavnostní skoro-derniera v Říčanech - 25. dubna 2023](https://fb.me/e/vtGimQpt)
  * [Dělňák v Líšni - 3. května 2023](https://fb.me/e/M8FgN5W4)
- * Kamenice u Jihlavy - 4. května 2023
+ * [Řehořov - 4. května 2023](https://fb.me/e/zBoJkITY)
 
 <img src="/img/drazi-pozustali.jpg" />
