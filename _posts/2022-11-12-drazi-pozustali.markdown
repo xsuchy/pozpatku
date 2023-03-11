@@ -31,7 +31,8 @@ Reprízy:
  * [Brno, Slatina - 3. února 2023](https://www.facebook.com/events/1160486331547405/)
  * [Měřín - 14 února 2023](https://fb.me/e/3WxAvwrqL)
  * [Nechvalín - 11 března 2023](https://fb.me/e/40cf7dE8C)
- * Líšeň - 3. května
- * derniéra v Říčanech - asi květen
+ * [slavnostní skoro-derniera v Říčanech - 25. dubna 2023](https://fb.me/e/vtGimQpt)
+ * [Dělňák v Líšni - 3. května 2023](https://fb.me/e/M8FgN5W4)
+ * Kamenice u Jihlavy - 4. května 2023
 
 <img src="/img/drazi-pozustali.jpg" />
