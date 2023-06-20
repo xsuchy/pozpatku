@@ -34,5 +34,11 @@ Reprízy:
  * [slavnostní skoro-derniera v Říčanech - 25. dubna 2023](https://fb.me/e/vtGimQpt)
  * [Dělňák v Líšni - 3. května 2023](https://fb.me/e/M8FgN5W4)
  * [Řehořov - 4. května 2023](https://fb.me/e/zBoJkITY)
+ * open air festival Velká Bíteš - 15. června 2023
+
+Záznam představení v Říčanech 25. dubna 2023:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gq84R7SHUR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <img src="/img/drazi-pozustali.jpg" />
