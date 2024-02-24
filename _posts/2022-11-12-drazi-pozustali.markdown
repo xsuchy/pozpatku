@@ -12,7 +12,7 @@ Navzdory svému jménu se jedná o komedii. Nepříliš harmonická rodina se sc
 
 Délka představení: 75 minut
 
- * scénář: Petr Pospíšilík
+ * scénář: Petr Pospíšilík [text scénáře](https://docs.google.com/document/d/1EvSBmPqqzlZnMRG0AIFLyJCZbT9dbnB3FNDAaW9jm3g/edit?usp=sharing)
 
  * režie: Petr Pospíšilík a Tereza Gazárková
 
