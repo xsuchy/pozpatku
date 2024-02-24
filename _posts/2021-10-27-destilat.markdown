@@ -12,9 +12,9 @@ Někteří členové našeho divadla účinkovali v klipech agro punkové skupin
 Na Marečkyndě
 =============
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jZrhL6GlCqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jZrhL6GlCqg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Flákanec
 ========
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=hUcDgcwIZck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUcDgcwIZck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
