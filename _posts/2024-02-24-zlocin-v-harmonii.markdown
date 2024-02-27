@@ -30,6 +30,8 @@ Reprízy:
  * premiéra Říčany - 10. dubna 2024
  * [Boleradice](https://boleradice-divadlo.cz/program-rezervace-dsbm/?view=detail&id=367956&date=18.04.2024) - 18. dubna 20:00 (součást [divadelní přehlídky](https://www.mrstikovodivadelnijaro.cz/program-prehlidky/))
  * Brno, Vaňkovka, Café Práh - 21. květen 2024 19:00
+ * Veverská Bítýška - 23. května 2024 (v jednání)
  * Řehořov - 19. září 2024
  * Brno, Slatina - konec září (Po nebo Čt) 2024
+ * Nechvalín - 26. říjen 2024
 
