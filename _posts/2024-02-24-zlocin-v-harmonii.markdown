@@ -36,3 +36,4 @@ Reprízy:
  * Brno, Slatina - konec září (Po nebo Čt) 2024
  * Nechvalín - 26. říjen 2024
 
+<img src="/img/zlocin-v-harmonii-plakat.jpg" />
