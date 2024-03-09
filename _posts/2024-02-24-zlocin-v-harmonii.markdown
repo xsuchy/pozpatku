@@ -27,7 +27,7 @@ Délka představení: 75 minut (bez přestávky)
 
 Reprízy:
 
- * premiéra Říčany - 10. dubna 2024
+ * premiéra Říčany - 10. dubna 2024 19:00
  * [Boleradice](https://boleradice-divadlo.cz/program-rezervace-dsbm/?view=detail&id=367956&date=18.04.2024) - 18. dubna 20:00 (součást [divadelní přehlídky](https://www.mrstikovodivadelnijaro.cz/program-prehlidky/))
  * Velká Bíteš - 25. dubna 2024
  * Brno, Vaňkovka, Café Práh - 21. květen 2024 19:00
