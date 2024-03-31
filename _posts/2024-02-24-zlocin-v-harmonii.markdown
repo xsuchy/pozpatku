@@ -25,6 +25,8 @@ Délka představení: 75 minut (bez přestávky)
  * Lukáš Podešva: Petr Pospíšilík
  * Šarlota Páleníková: Vlaďka Suchá
 
+ * zvuk a světla: Viktor Oujezdský
+
 Reprízy:
 
  * premiéra Říčany - 10. dubna 2024 19:00
