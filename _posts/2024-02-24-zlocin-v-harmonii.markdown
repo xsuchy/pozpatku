@@ -37,4 +37,12 @@ Reprízy:
  * Brno, Slatina - 26. září 2024 v 19:00
  * Nechvalín - 26. říjen 2024
 
+Ocenění:
+
+ * Mrštíkovo divadelní jaro 2024
+   * Cena Vlaďce Suché za roli Šarloty Páleníkové
+   * Cena Petru Pospíšilíkovi za scénář
+   * Cenu Petru Pospíšilíkovi za roli Lukáše Podešvy
+   * Tereze Gazárkové za roli Kláry Svaté
+
 <img src="/img/zlocin-v-harmonii-plakat.jpg" />
