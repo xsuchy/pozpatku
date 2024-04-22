@@ -43,6 +43,6 @@ Ocenění:
    * Cena Vlaďce Suché za roli Šarloty Páleníkové
    * Cena Petru Pospíšilíkovi za scénář
    * Cenu Petru Pospíšilíkovi za roli Lukáše Podešvy
-   * Tereze Gazárkové za roli Kláry Svaté
+   * Čestné uznání Tereze Gazárkové za roli Kláry Svaté
 
 <img src="/img/zlocin-v-harmonii-plakat.jpg" />
