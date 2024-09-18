@@ -35,7 +35,6 @@ Reprízy:
  * [Brno, Vaňkovka, Café Práh - 21. květen 2024 19:00](https://www.cafeprah.cz/kalendar-akci/akce-3594)
  * Rohatec - 18. září v 19:00
  * Řehořov - 19. září 2024 v 19:00
- * Brno, Slatina - 26. září 2024 v 19:00
  * Nechvalín - 26. říjen 2024
  * Říčany - 31. říjen 2024
 
