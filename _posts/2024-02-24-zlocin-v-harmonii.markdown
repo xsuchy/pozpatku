@@ -37,7 +37,7 @@ Reprízy:
  * Řehořov - 19. září 2024 v 19:00
  * Nechvalín - 26. říjen 2024
  * Říčany - 31. říjen 2024
- * Brno-Slatina - 7. listopadu 2024
+ * Brno-Slatina - 7. listopadu 2024 v 19:00
 
 Ocenění:
 
