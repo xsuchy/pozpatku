@@ -47,4 +47,8 @@ Ocenění:
    * Cenu Petru Pospíšilíkovi za roli Lukáše Podešvy
    * Čestné uznání Tereze Gazárkové za roli Kláry Svaté
 
+Záznam představení v Brně Slatině ze 7. listopadu 2024:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtO6x-Eceb8?si=3gO0VZGzS79780lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <img src="/img/zlocin-v-harmonii-plakat.jpg" />
