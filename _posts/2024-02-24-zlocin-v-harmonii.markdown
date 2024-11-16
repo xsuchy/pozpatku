@@ -12,7 +12,7 @@ Po neúspěšném pokusu dobýt Hollywood se do České republiky vrací herečk
 
 Délka představení: 75 minut (bez přestávky)
 
- * scénář: Petr Pospíšilík [text scénáře](https://docs.google.com/document/d/1Jh_ym6n6SF2YmHUIwESqNxogReSYjUR9O0Kk4VSvR78/edit?usp=sharing)
+ * scénář: Petr Pospíšilík
 
  * režie: Petr Pospíšilík a Tereza Gazárková
 
