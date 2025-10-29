@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Šťastnou plavbu"
-date:   2024-11-23 10:00:00 +0100
+date:   2024-10-29 10:00:00 +0100
 author: Jan Gazárek
 visible: 1
 categories: 
