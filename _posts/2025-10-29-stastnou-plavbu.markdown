@@ -27,5 +27,9 @@ Délka představení:
 Reprízy:
 
  * premiéra Říčany - 23. listopadu 2025 19:00
+ * Nechvalín - 10. ledna 2026 18:00
+ * Brno, Vaňkovka, Café Práh - 19. ledna 2026 19:00
+ * Slatina - 7. března 2026 19:00
+ * Velká Bíteš - 21. května 2026 19:00
 
 <img src="/img/stastnou_plavbu_plakat.png" />
