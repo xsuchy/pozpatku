@@ -30,6 +30,7 @@ Reprízy:
  * Nechvalín - 10. ledna 2026 18:00
  * Brno, Vaňkovka, Café Práh - 19. ledna 2026 19:00
  * Slatina - 7. března 2026 19:00
+ * Vržanov - 12. dubna 2026 19:00
  * Velká Bíteš - 21. května 2026 19:00
 
 <img src="/img/stastnou_plavbu_plakat.png" />
